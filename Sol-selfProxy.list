@@ -1,5 +1,11 @@
 PROCESS-NAME,/Applications/MacUpdater.app/Contents/MacOS/MacUpdater
 DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,netflixtown.comg,🗼 节点选择
-DOMAIN-SUFFIX,immtel.com,🗼 节点选择
-DOMAIN-SUFFIX,onekey.so,🗼 节点选择
+DOMAIN-SUFFIX,netflixtown.comg
+DOMAIN-SUFFIX,immtel.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,airport.community
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,suo.yt
+DOMAIN-SUFFIX,justwatch.com
+DOMAIN-SUFFIX,tophub.today
+USER-AGENT,Tesla*
