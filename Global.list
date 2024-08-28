@@ -3,7 +3,6 @@
 # Last Updated: 2024-08-28
 # This rules for services not available inside the Mainland China.
 #########################################
-DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,pki.goog
 DOMAIN,addons.mozilla.org
 DOMAIN,ees.elsevier.com
