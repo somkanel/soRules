@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,metaso.cn
 DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,hzyoka.com
+IP-CIDR,162.14.0.0/18,no-resolve
+IP-CIDR,140.205.1.0/24,no-resolve
