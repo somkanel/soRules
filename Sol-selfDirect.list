@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,iask.in
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN,app.bilibili.com
 DOMAIN-SUFFIX,metaso.cn
-DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,hzyoka.com
 IP-CIDR,162.14.0.0/18,no-resolve
