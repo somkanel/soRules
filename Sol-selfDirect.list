@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,sanguosha.com
 DOMAIN-SUFFIX,hzyoka.com
 IP-CIDR,162.14.0.0/18,no-resolve
 IP-CIDR,140.205.1.0/24,no-resolve
+# 临时解决米家 APP 死循环问题
+IP-CIDR,106.120.178.9/32,REJECT-DROP,no-resolve
