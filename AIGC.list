@@ -28,5 +28,6 @@ DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,http://labs.google
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,matter.ai
 ################## EOF ##################
