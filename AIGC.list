@@ -31,4 +31,5 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,matter.ai
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,sentry.io
 ################## EOF ##################
